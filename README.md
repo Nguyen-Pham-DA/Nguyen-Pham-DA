@@ -1,4 +1,5 @@
-## Hi there 👋
+## Welcome everyone to my GitHub
+
 <h1 align="center">Hi 👋, I'm Nguyen!</h1>
 <h3 align="center">"Practical and Time-saving first"</h3>
 
